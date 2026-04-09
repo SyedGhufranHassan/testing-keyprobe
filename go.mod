@@ -1,3 +1,3 @@
-module github.com/SyedGhufranHassan/testing-keyprobe
+module github.com/your-username/testing-keyprobe
 
-go 1.26.1
+go 1.21
